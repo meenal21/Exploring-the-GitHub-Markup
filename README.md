@@ -23,7 +23,7 @@ Adding in a list here
 - List item 3
 
 A Task List here
-[x] make a task list
-[ ] cross them all
-[ ] complete the readmd
+- [x] make a task list
+- [ ] cross them all
+- [ ] complete the readmd
 
