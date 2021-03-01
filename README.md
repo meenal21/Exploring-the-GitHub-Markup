@@ -28,3 +28,6 @@ A Task List here
 - [ ] complete the readmd
 - [ ] \(Optional) This is an optional task
 
+Adding emoji to the text
+
+@meenalj :+1: :shipit:
