@@ -31,3 +31,7 @@ A Task List here
 Adding emoji to the text
 
 @meenalj :+1: :shipit:
+
+Refer to this sheet -> [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
